@@ -1,0 +1,11 @@
+Order id:72772
+customer id:75061
+Customer name:prabhi
+Product name:The Complete Harry Potter Series (7 books)
+Payment method:COD
+Price:200
+address:njhnb
+
+
+Thankyou for shopping with us...
+See you again soon
