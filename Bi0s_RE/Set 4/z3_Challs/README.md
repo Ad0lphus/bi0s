@@ -1,6 +1,6 @@
 # chall 1
 
-```python=
+```python
 from z3 import *
 s=Solver()
 
@@ -155,7 +155,7 @@ So, I tried with an older version of ubuntu to fix that error [ ubuntu 14.04 LTS
 <hr>
 
 # chall 2
-```python=
+```python
 from z3 import *
 import gdb
 l=[]
@@ -287,7 +287,7 @@ gdb.execute('q')
 
 # rop-obf
 
-```python=
+```python
 from z3 import *
 import gdb
 
