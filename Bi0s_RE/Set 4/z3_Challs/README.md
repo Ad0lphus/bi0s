@@ -1,4 +1,4 @@
-# chall 1
+# chall 1	([chall file](https://github.com/prabhigupta/bi0s/blob/master/Bi0s_RE/Set%204/z3_Challs/chall1?raw=true))
 
 ```python
 from z3 import *
@@ -154,7 +154,7 @@ So, I tried with an older version of ubuntu to fix that error [ ubuntu 14.04 LTS
 ***Flag: What_You_Wanna_Be?:)_lc_la***
 <hr>
 
-# chall 2
+# chall 2	([chall file](https://github.com/prabhigupta/bi0s/blob/master/Bi0s_RE/Set%204/z3_Challs/chall2?raw=true))
 ```python
 from z3 import *
 import gdb
@@ -285,7 +285,7 @@ gdb.execute('q')
 ***Flag: shkCTF{cl4ss1c_z3___t0_st4rt_:)}***
 <hr>
 
-# rop-obf
+# rop-obf	([chall file](https://github.com/prabhigupta/bi0s/blob/master/Bi0s_RE/Set%204/z3_Challs/rop-obf?raw=true))
 
 ```python
 from z3 import *
