@@ -1,8 +1,8 @@
-### Bi0s Basic Tasks
+### Bi0s Basic Tasks (Rec)
 
 [Writeup Link](https://docs.google.com/document/d/1ZyA-7qlylXdC-kN0YM17crnt1Nngiiu9tWxJTaReuVI/edit?usp=sharing)
 
-### Bi0s RE Tasks
+### Bi0s RE Tasks 
 
 [Writeup Link](https://github.com/prabhigupta/bi0s/tree/master/Bi0s_RE)
 
