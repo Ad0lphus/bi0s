@@ -4,15 +4,15 @@
 
 ### Bi0s RE Tasks 
 
-[Writeup Link](https://github.com/prabhigupta/bi0s/tree/master/Bi0s_RE)
+[Writeup Link](https://github.com/Ad0lphus/bi0s/tree/master/Bi0s_RE)
 
 ### Bi0s Forensic Tasks
 
-[Writeup Link](https://github.com/prabhigupta/bi0s/tree/master/Bi0s_Forensics)
+[Writeup Link](https://github.com/Ad0lphus/bi0s/tree/master/Bi0s_Forensics)
 
 ### Bi0s Crypto Tasks
 
-[Writeup Link](https://github.com/prabhigupta/bi0s/tree/master/Bi0s_Crypto)
+[Writeup Link](https://github.com/Ad0lphus/bi0s/tree/master/Bi0s_Crypto)
 
 ### Bi0s Web Tasks
 
